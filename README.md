@@ -13,11 +13,3 @@ Abrir el proyecto en IntelliJ IDEA y ejecutar la clase Main.S
 2. Elige entre añadir, listar o buscar productos.
 3. La nueva opción de búsqueda permite localizar un producto por nombre.
 4. Si el producto existe, el sistema lo indica por pantalla.
-
-## Uso del programa
-Versión B: Ejecuta MiniInventario y usa la nueva búsqueda de productos.
-
-## Uso del programa
-Esta es la version de la rama DOCUMENTAL.
-1. Abrir en IntelliJ.
-2. Ejecutar Main.
