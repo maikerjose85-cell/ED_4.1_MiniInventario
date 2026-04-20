@@ -16,3 +16,8 @@ Abrir el proyecto en IntelliJ IDEA y ejecutar la clase Main.S
 
 ## Uso del programa
 Versión B: Ejecuta MiniInventario y usa la nueva búsqueda de productos.
+
+## Uso del programa
+Esta es la version de la rama DOCUMENTAL.
+1. Abrir en IntelliJ.
+2. Ejecutar Main.
